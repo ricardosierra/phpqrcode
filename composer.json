@@ -1,0 +1,9 @@
+{
+    "name": "phpqrcode/phpqrcode",
+    "description": "PHP QR Code generator",
+    "type": "library",
+    "autoload": {
+        "files": ["qrlib.php"]
+    },
+    "license": "LGPL-3.0"
+}
