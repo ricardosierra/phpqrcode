@@ -1,5 +1,5 @@
 {
-    "name": "phpqrcode/phpqrcode",
+    "name": "qrcode/qrcode",
     "description": "PHP QR Code generator",
     "type": "library",
     "autoload": {
